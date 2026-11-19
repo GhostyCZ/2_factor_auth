@@ -1,2 +1,2 @@
-﻿# 2_factor_auth
-## Small python code for 2FA, just for fun
+﻿#2FA
+## Malý python kód pro 2 krokové ověření přístupu v bankomatu, just 4 fun
